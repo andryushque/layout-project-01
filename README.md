@@ -1,4 +1,8 @@
-# html-project-01
+# Layout Project - MoGo
 
-верстка сайта по psd-макету
-(html5, css3, jquery)
+## Info
+ Верстка сайта по psd-макету (HTML5, CSS3, jQuery)
+ 
+## Link
+ [PSD template](https://freebiesbug.com/code-stuff/activebox-free-html-template/)
+
