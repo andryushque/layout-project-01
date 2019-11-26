@@ -1,4 +1,4 @@
-# Layout Project - MoGo
+# Layout Project - ActiveBox
 
 ## Info
  Верстка сайта по psd-макету (HTML5, CSS3, jQuery)
